@@ -69,7 +69,7 @@ h1 {
   display: block; /* Change the display to block, for responsive reasons (see below) */
   color: white; /* White text color */
   text-align: center; /* Center the text */
-  padding: 14px 20px; /* Add some padding */
+  padding: 0px 0px 0px 400px; /* Add some padding */
   text-decoration: none; /* Remove underline */
 }
 
@@ -81,7 +81,7 @@ h1 {
 /* Change color on hover/mouse-over */
 .navbar a:hover {
   background-color: #ff99ca; /* Grey background color */
-  color: black; /* Black text color */
+  color: white; /* Black text color */
 }
 
 
@@ -102,7 +102,7 @@ h1 {
   flex: 30%; /* Set the width of the sidebar */
   background-color: #ffc6e1; /* Grey background color */
   padding: 20px; /* Some padding */
-  opacity: 0.6
+  opacity: 0.8;
 }
 
 /* Main column */
@@ -110,6 +110,6 @@ h1 {
   flex: 70%; /* Set the width of the main content */
   background-color: white; /* White background color */
   padding: 20px; /* Some padding */
-  opacity: 0.6
+  opacity: 0.8;
 
 }
