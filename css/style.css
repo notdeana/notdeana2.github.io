@@ -102,7 +102,7 @@ h1 {
   flex: 30%; /* Set the width of the sidebar */
   background-color: #ffc6e1; /* Grey background color */
   padding: 20px; /* Some padding */
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 /* Main column */
@@ -110,6 +110,6 @@ h1 {
   flex: 70%; /* Set the width of the main content */
   background-color: white; /* White background color */
   padding: 20px; /* Some padding */
-  opacity: 0.8;
+  opacity: 0.9;
 
 }
